@@ -16,7 +16,8 @@ A wrapper of rc-dropdown so we can have elements other than rc-menu inside rc-dr
 
 For APIs, you can reference to https://github.com/react-component/dropdown/blob/master/README.md#api
 
-The difference is that with the orginal version of `rc-dropdown` you can't use elements other than `rc-menu` as overlay. 
+The difference is that with the orginal version of `rc-dropdown` you can't use elements other than `rc-menu` as overlay. (You can. but there were bugs, for example every time you click on the overlay, it disappears)
+
 But now you can.
 
 
