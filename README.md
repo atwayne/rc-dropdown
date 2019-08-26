@@ -1,6 +1,6 @@
 A wrapper of rc-dropdown so we can have elements other than rc-menu inside rc-dropdown
 
-[![rc-dropdown-ext v0.0.2][npm-image]][npm-url]
+[![rc-dropdown-ext][npm-image]][npm-url]
 
 
 [npm-url]: https://www.npmjs.com/package/rc-dropdown-ext
