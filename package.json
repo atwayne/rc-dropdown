@@ -1,6 +1,6 @@
 {
   "name": "rc-dropdown-ext",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a wrapper of rc-dropdown so it works with elements other than rc-menu",
   "main": "lib/index.js",
   "scripts": {
