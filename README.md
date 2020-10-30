@@ -1,3 +1,12 @@
+## Note
+
+The purpose of this package is to extend the function of another package rc-dropdown.
+
+However, as of today, the latest version of rc-dropdown has already addressed the issue.  
+
+So always consider use latest version of rc-dropdown without this package, unless you have to stick with version ^2.4.1 of rc-dropdown for some reason.
+
+## Introduction
 A wrapper of rc-dropdown so we can have elements other than rc-menu inside rc-dropdown
 
 [![rc-dropdown-ext][npm-image]][npm-url]
